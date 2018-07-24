@@ -4,7 +4,7 @@
 
 - Build a calculator command line interface (CLI) that allows a user to perform simple arithmetic.
 - Individual, [stage 1](https://github.com/Ada-Developers-Academy/pedagogy/blob/master/rule-of-three.md#stage-1) project
-- Due before class, **DATE HERE**
+- Due **August 8th, 2018, 10 AM**. We will go over in class how to submit the project
 
 ## Learning Goals
 
